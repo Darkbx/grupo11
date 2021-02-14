@@ -1,0 +1,5 @@
+print("Tabla de multiplicar")
+print("Tabla del 5")
+for mult in range(0, 501):
+    if mult % 5 == 0:
+        print(mult)
