@@ -1,0 +1,5 @@
+z = 97
+a = 100
+while z <= a:
+    print(chr(z))
+    z= z-1
